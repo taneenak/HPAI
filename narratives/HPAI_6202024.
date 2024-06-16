@@ -1,0 +1,60 @@
+---
+title: "HPAI Virus Phylogenetic Analysis"
+authors: "Tanin Rajamand"
+authorLinks: "mailto:tr44022@uga.edu"
+date: "June 10, 2024"
+dataset: "https://nextstrain.org/community/taneenak/HPAI"
+auspiceMainTitle: "HPAI Tree"
+abstract: |
+    This narrative explores the phylogenetic analysis of the HPAI virus using Nextstrain. It includes slides on the tree, map views of the virus's evolution, and entropy analysis.
+---
+
+# [Introduction to the HPAI virus](https://nextstrain.org/community/taneenak/HPAI)
+
+HPAI Virus: 
+- The main way the HPAI virus spreads is through bites from infected Aedes mosquitoes.
+- HPAI can also be passed through sexual contact or from a pregnant woman to her developing baby.
+- If a pregnant person gets HPAI, it can cause serious birth defects for the child.
+- Unfortunately, there's currently no vaccine or medication to prevent or treat HPAI itself.
+
+```auspiceMainDisplayMarkdown
+  # Treatment:
+If you're experiencing symptoms of HPAI, call your healthcare provider.  While there's no cure for HPAI itself, getting plenty of rest, fluids, and over-the-counter pain relievers can help manage your symptoms.
+
+  # Symptoms:
+- Fever
+
+- Rash
+
+- Headache
+
+- Joint pain
+
+- Red eyes
+
+- Muscle pain
+
+
+  # Citation:
+
+Centers for Disease Control and Prevention. (2024, June 17). About HPAI | HPAI Virus | CDC. Retrieved from https://www.cdc.gov/HPAI/about/index.html
+
+```
+
+# [Full Dataset Overview](https://nextstrain.org/community/taneenak/HPAI?p=full)
+
+This link provides a comprehensive overview of the HPAI virus dataset used for the analysis, including all related views and metadata.
+
+# [HPAI Virus Overview](https://nextstrain.org/community/taneenak/HPAI?d=tree&p=full)
+
+Explore the phylogenetic tree of HPAI virus strains. This view provides insights into the evolutionary relationships among different viral samples.
+
+# [Geographic Spread](https://nextstrain.org/community/taneenak/HPAI?d=map&p=full)
+
+Investigate the geographic spread of HPAI virus strains across different regions. This slide focuses on the distribution patterns observed in the dataset.
+
+# [Entropy Analysis](https://nextstrain.org/community/taneenak/HPAI?d=entropy&p=full)
+
+Analyze the entropy of the HPAI virus genome. This slide focuses on the variability and evolutionary pressures acting on different genomic regions.
+
+
