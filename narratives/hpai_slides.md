@@ -9,7 +9,7 @@ abstract: |
     This narrative explores the phylogenetic analysis of the HPAI virus using Nextstrain. It includes slides on the tree and entropy analysis.
 ---
 
-# [Introduction to the HPAI virus](https://nextstrain.org/community/taneenak/HPAI)
+# [Introduction to the HPAI virus](https://nextstrain.org/community/taneenak/hpai)
 
 HPAI Virus: 
 - H5N1 bird flu is widespread in wild birds worldwide and is causing outbreaks in poultry and U.S. dairy cows with one recent human case in a U.S. dairy worker.
