@@ -16,7 +16,7 @@ HPAI Virus:
 - While the current public health risk is low, the CDC is watching the situation carefully and working with states to monitor people who are exposed to animals.
 - CDC is using its flu surveillance systems to monitor for H5N1 activity in people.
 
-    ```auspiceMainDisplayMarkdown
+```auspiceMainDisplayMarkdown
 # What to Know:
 Influenza A viruses are endemic (can infect and regularly transmit) in 6 animal species or groups (wild waterfowl, domestic poultry, swine, horses, dogs, and bats) in addition to humans.
 
@@ -26,8 +26,7 @@ Influenza A viruses are endemic (can infect and regularly transmit) in 6 animal 
 
 # Citation:
 Centers for Disease Control and Prevention (CDC). Bird Flu. [Last accessed June 16, 2024]. https://www.cdc.gov/bird-flu/
-
-    ```
+```
 
 # [Full Dataset Overview](https://nextstrain.org/community/taneenak/HPAI?p=full)
 
