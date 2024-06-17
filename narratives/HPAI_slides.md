@@ -25,10 +25,10 @@ Influenza A viruses are endemic (can infect and regularly transmit) in 6 animal 
 
 -  If you must have direct/close contact with infected or potentially infected birds or other animals, wear recommended personal protective equipment (PPE).
 
-
   # Citation:
 
 Centers for Disease Control and Prevention (CDC). Bird Flu. [Last accessed June 16, 2024]. https://www.cdc.gov/bird-flu/
+
 ```
 
 # [Full Dataset Overview](https://nextstrain.org/community/taneenak/HPAI?p=full)
