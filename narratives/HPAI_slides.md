@@ -13,9 +13,8 @@ abstract: |
 
 HPAI Virus: 
 - H5N1 bird flu is widespread in wild birds worldwide and is causing outbreaks in poultry and U.S. dairy cows with one recent human case in a U.S. dairy worker.
-- While the current public health risk is low, CDC is watching the situation carefully and working with states to monitor people with animal exposures.
+- While the current public health risk is low, CDC is watching the situation carefully and working with states to monitor people with animal exposure.
 - CDC is using its flu surveillance systems to monitor for H5N1 activity in people
-
 
 ```auspiceMainDisplayMarkdown
   # What to Know:
