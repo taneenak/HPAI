@@ -17,33 +17,21 @@ HPAI Virus:
 - CDC is using its flu surveillance systems to monitor for H5N1 activity in people
 
 
+
 ```auspiceMainDisplayMarkdown
-  # Treatment:
-If you're experiencing symptoms of Zika, call your healthcare provider.  While there's no cure for Zika itself, getting plenty of rest, fluids, and over-the-counter pain relievers can help manage your symptoms.
+# What to Know:
+Influenza A viruses are endemic (can infect and regularly transmit) in 6 animal species or groups (wild waterfowl, domestic poultry, swine, horses, dogs, and bats) in addition to humans.
 
-  # Symptoms:
-- Fever
+# Prevention:
+- People should avoid direct contact with wild birds and other animals infected with or suspected to be infected with avian influenza A viruses.
 
-- Rash
+- If you must have direct/close contact with infected or potentially infected birds or other animals, wear recommended personal protective equipment (PPE).
 
-- Headache
+# Citation:
 
-- Joint pain
-
-- Red eyes
-
-- Muscle pain
-
-
-  # Citation:
-
-Centers for Disease Control and Prevention. (2024, June 17). About Zika | Zika Virus | CDC. Retrieved from https://www.cdc.gov/zika/about/index.html
+Centers for Disease Control and Prevention (CDC). Bird Flu. [Last accessed June 16, 2024]. https://www.cdc.gov/bird-flu/
 
 ```
-
-
-
-
 
 # [Full Dataset Overview](https://nextstrain.org/community/taneenak/HPAI?p=full)
 
