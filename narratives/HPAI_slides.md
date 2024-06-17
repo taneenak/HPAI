@@ -20,10 +20,12 @@ HPAI Virus:
   # What to Know:
 Influenza A viruses are endemic (can infect and regularly transmit) in 6 animal species or groups (wild waterfowl, domestic poultry, swine, horses, dogs, and bats) in addition to humans.
 
-  # Prevention:
--  People should avoid direct contact with wild birds and other animals infected with or suspected to be infected with avian influenza A viruses.
 
--  If you must have direct/close contact with infected or potentially infected birds or other animals, wear recommended personal protective equipment (PPE).
+  # Prevention:
+- People should avoid direct contact with wild birds and other animals infected with or suspected to be infected with avian influenza A viruses.
+
+- If you must have direct/close contact with infected or potentially infected birds or other animals, wear recommended personal protective equipment (PPE).
+
 
   # Citation:
 
