@@ -16,10 +16,10 @@ The highly contagious H5N1 bird flu virus, prevalent in wild birds around the wo
 
 ```auspiceMainDisplayMarkdown
 # What to Know:
--  HPAI viruses can be transmitted by wild birds to domestic poultry and other bird and animal species.
+-  wild birds can transmit HPAI viruses to domestic poultry and other bird and animal species.
 
 # Map
-<img  src="https://github.com/taneenak/HPAI/blob/main/figures/High%20Path%20.png?raw=true"  alt="Map"  width="50%" />
+<img  src="https://github.com/taneenak/HPAI/blob/main/figures/High%20Path%20.png?raw=true"  alt="Monitoring for Novel Influenza A virus infections among people, including Influenza A (H5N1)"  width="50%" />
 
 # Prevention:
 - People should avoid direct contact with wild birds and other animals infected with or suspected to be infected with avian influenza A viruses.
@@ -28,6 +28,33 @@ The highly contagious H5N1 bird flu virus, prevalent in wild birds around the wo
 # Citation:
 Centers for Disease Control and Prevention (CDC). Bird Flu. [Last accessed June 16, 2024]. https://www.cdc.gov/bird-flu/
 ```
+
+
+# [This Dataset](https://nextstrain.org/community/taneenak/HPAI)
+
+This dataset is a subsampled version of a much bigger dataset with only H5 HPAI. This dataset has been subsampled against species and continent and we only have 56 genomes. Species have been categorized into 7 subtypes: Human, Wild Bird, Wild Mammal, Livestock Avian, Livestock Mammal, Pet, and Other Birds. 
+
+In Wild Bird, we have 86 species; in Livestock Avia, we only have 10 species. Those 10 species include Chicken, Duck, Fowl, Goose, Ostrich, Pheasant, Poultry, Quail, Swan, and Turkey. 
+
+
+Cat and Ferrets are considered pets. 
+In this dataset we have samples from Asia, Europe, North America, South America, and Antarctica. 
+
+In Livestock Mammal we only have 4 species: Dairy Cattle, Goat, Mink, and Swine. And in Wild Mammal we have 25 different species. 
+
+```auspiceMainDisplayMarkdown
+# What to Know:
+-  HPAI viruses can be transmitted by wild birds to domestic poultry and other bird and animal species.
+
+# Metadata Counts 
+<img  src="https://github.com/taneenak/HPAI/blob/main/figures/continent.png?raw=true"  alt="Continent Count"  width="50%" />
+
+<img  src="https://github.com/taneenak/HPAI/blob/main/figures/species.png?raw=true"  alt="Species Count"  width="50%" />
+
+# Citation:
+Centers for Disease Control and Prevention (CDC). Bird Flu. [Last accessed June 16, 2024]. https://www.cdc.gov/bird-flu/
+```
+
 
 # [Full Dataset Overview](https://nextstrain.org/community/taneenak/HPAI?c=species&d=tree,map&p=grid)
 
