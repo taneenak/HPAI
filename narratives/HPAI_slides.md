@@ -52,16 +52,15 @@ In Livestock Mammal we only have 4 species: Dairy Cattle, Goat, Mink, and Swine.
 
 <img  src="https://github.com/taneenak/HPAI/blob/main/figures/species.png?raw=true"  alt="Species Count"  width="50%" />
 
-# Citation:
-Centers for Disease Control and Prevention (CDC). Bird Flu. [Last accessed June 16, 2024]. https://www.cdc.gov/bird-flu/
 ```
 
 
 # [Full Dataset Overview](https://nextstrain.org/community/taneenak/HPAI?c=species&d=tree,map&p=grid)
 
 This link provides a comprehensive overview of the HPAI virus dataset used for the analysis, including all related views and metadata.
+You can see that due to our subsampling method, they are equally distributed in each continent. 
 
-Explore the phylogenetic tree of HPAI virus strains. This view provides insights into the evolutionary relationships among different viral samples.
 
-
+# [Animated Version](https://nextstrain.org/community/taneenak/HPAI?animate=2010-07-05,2024-04-05,1,1,15000&c=species&d=tree,map&p=grid)
+This slide highlights the emergence of the virus in entirely new populations and species. 
 
