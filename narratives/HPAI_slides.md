@@ -19,8 +19,7 @@ The highly contagious H5N1 bird flu virus, prevalent in wild birds around the wo
 -  HPAI viruses can be transmitted by wild birds to domestic poultry and other bird and animal species.
 
 # Map
-<img  src="https://github.com/taneenak/HPAI/blob/b2fd1a7fa09f95b66043dcd87af1957b1157861a/figures/High%20Path%20.png"  alt="Map"  width="50%" />
-
+<img  src="https://github.com/taneenak/HPAI/blob/main/figures/High%20Path%20.png?raw=true"  alt="Map"  width="50%" />
 
 
 # Prevention:
