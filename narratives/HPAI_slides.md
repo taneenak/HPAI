@@ -21,7 +21,6 @@ The highly contagious H5N1 bird flu virus, prevalent in wild birds around the wo
 # Map
 <img  src="https://github.com/taneenak/HPAI/blob/main/figures/High%20Path%20.png?raw=true"  alt="Map"  width="50%" />
 
-
 # Prevention:
 - People should avoid direct contact with wild birds and other animals infected with or suspected to be infected with avian influenza A viruses.
 - If you must have direct/close contact with infected or potentially infected birds or other animals, wear recommended personal protective equipment (PPE).
@@ -30,14 +29,11 @@ The highly contagious H5N1 bird flu virus, prevalent in wild birds around the wo
 Centers for Disease Control and Prevention (CDC). Bird Flu. [Last accessed June 16, 2024]. https://www.cdc.gov/bird-flu/
 ```
 
-# [Full Dataset Overview](https://nextstrain.org/community/taneenak/HPAI?p=full)
+# [Full Dataset Overview](https://nextstrain.org/community/taneenak/HPAI?c=species&d=tree,map&p=grid)
 
 This link provides a comprehensive overview of the HPAI virus dataset used for the analysis, including all related views and metadata.
 
 Explore the phylogenetic tree of HPAI virus strains. This view provides insights into the evolutionary relationships among different viral samples.
 
-# [Entropy Analysis](https://nextstrain.org/community/taneenak/HPAI?d=entropy&p=full)
-
-Analyze the entropy of the HPAI virus genome. This slide focuses on the variability and evolutionary pressures acting on different genomic regions.
 
 
