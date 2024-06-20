@@ -12,13 +12,16 @@ abstract: |
 # [Introduction to the HPAI virus](https://nextstrain.org/community/taneenak/HPAI)
 
 HPAI Virus:
-- H5N1 bird flu is widespread in wild birds worldwide and is causing outbreaks in poultry and U.S. dairy cows with one recent human case in a U.S. dairy worker.
-- While the current public health risk is low, the CDC is watching the situation carefully and working with states to monitor people who are exposed to animals.
-- CDC is using its flu surveillance systems to monitor for H5N1 activity in people.
+The highly contagious H5N1 bird flu virus, prevalent in wild birds around the world, has sparked outbreaks in poultry farms and, in a concerning development,  U.S. dairy cattle.  Although a single dairy worker recently contracted the virus, public health officials maintain the current risk to humans remains low. However, the CDC is closely monitoring the situation and collaborating with states to track potential human exposures linked to animal contact.
 
 ```auspiceMainDisplayMarkdown
 # What to Know:
-Influenza A viruses are endemic (can infect and regularly transmit) in 6 animal species or groups (wild waterfowl, domestic poultry, swine, horses, dogs, and bats) in addition to humans.
+-  HPAI viruses can be transmitted by wild birds to domestic poultry and other bird and animal species.
+
+# Map
+<img  src="https://github.com/taneenak/HPAI/blob/b2fd1a7fa09f95b66043dcd87af1957b1157861a/figures/High%20Path%20.png"  alt="Map"  width="50%" />
+
+
 
 # Prevention:
 - People should avoid direct contact with wild birds and other animals infected with or suspected to be infected with avian influenza A viruses.
